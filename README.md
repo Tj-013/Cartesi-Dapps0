@@ -31,7 +31,7 @@ For Windows, its recommended to have Ubuntu WSL installed then installing docker
 
 1. Clone this repo
    ```sh
-   git clone 
+   git clone https://github.com/Tj-013/Cartesi-Dapps0.git
    ```
 2. Install NPM packages
    ```sh
